@@ -122,18 +122,3 @@ outputs/<run>/
 ## Results
 
 `results/` contains the skill snapshot from every optimization step of the paper's GPT-5.4-mini and GPT-5.4 runs. See [`results/README.md`](results/README.md).
-
-## Citation
-
-```bibtex
-@inproceedings{selfop,
-  title     = {SelfOp: An Optimization Algorithm for Self-Improving Security Agents},
-  author    = {TODO},
-  booktitle = {TODO},
-  year      = {2027}
-}
-```
-
-## License
-
-Apache-2.0
