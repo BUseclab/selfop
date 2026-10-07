@@ -21,7 +21,7 @@ selfop eval --task cybergym --split test \
 
 | Run | Baseline (test) | SelfOp (test) |
 |---|---|---|
-| GPT-5.4-mini | 38% | 56% |
+| GPT-5.4-mini | 38% | 55% |
 | GPT-5.4 | 49% | 67.5% |
 
 For GPT-5.4-mini, the convergence detector selects `step_8`, which reaches 55% on test. The best test result, 56.2%, is at `step_12`.
